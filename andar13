@@ -1,0 +1,14 @@
+for i in range(20,0,-1):
+  if (i == 13):
+    continue
+  else:
+    print(i)
+
+contador = 20
+while (contador >= 0):
+  if (contador == 13):
+    contador = contador - 1
+    continue
+  else:
+    print(contador)  
+    contador = contador - 1
