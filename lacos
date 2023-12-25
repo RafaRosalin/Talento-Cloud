@@ -1,0 +1,42 @@
+print ("Selecione qual operação matemática irá realizar Sendo: ")
+print ("1 - Somar")
+print ("2 - Subtrair")
+print ("3 - Multiplicar")
+print ("4 - Dividir")
+print ("0 - Sair")
+
+numero = int(input())
+
+While: numero != 0
+if (numero == 1):
+    print ("Você escolheu SOMA. Digite o primeiro valor a ser somado: ")
+    num1 = int(input())
+    print ("Digite o segundo valor a ser somado:")
+    num2 =int(input())
+    res1 = num1 + num2
+    print ("O resultado da soma é: ", res1)
+elif (numero == 2):
+    print ("Você escolheu SUBTRAÇÃO. Digite o primeiro valor a ser subtraido: ")
+    num3 = int(input())
+    print ("Digite o segundo valor a ser subtraido")
+    num4 = int(input())
+    res2 = num3 - num4
+    print ("O resultado da subtração é: ", res2)
+elif (numero == 3):
+    print ("Você escolheu MULTIPLICAÇÃO. Digite o primeiro valor a ser multiplicado")
+    num5 = int(input())
+    print ("Digite o segundo valor a ser multiplicado")
+    num6 = int(input())
+    res3 = num5 * num6
+    print("O resultado da multiplicação é: ", res3)
+elif (numero == 4):
+    print ("Você escolheu DIVISÃO. Digite o primeiro número a ser dividido:")
+    num7 = int(input())
+    print ("Digite o segundo valor a ser dividido: ")
+    num8 = int(input())
+    res4 = num7 / num8
+    print ("O resultado da divisão é:", res4)
+elif (numero >= 5):
+    print ("Essa opção não existe!")
+else:
+    print ("Fim do Programa!")
