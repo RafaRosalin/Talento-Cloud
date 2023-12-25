@@ -2,7 +2,7 @@ for i in range(20,0,-1):
   if (i == 13):
     continue
   else:
-    print(i)
+    print(i, " andar")
 
 contador = 20
 while (contador >= 0):
@@ -10,5 +10,5 @@ while (contador >= 0):
     contador = contador - 1
     continue
   else:
-    print(contador)  
+    print(contador, " andar")  
     contador = contador - 1
