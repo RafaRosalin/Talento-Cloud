@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <span>EuroTour</span>
+        <nav>
+            <ul>
+                <li>Passagens</li>
+                <li>Hospedagens</li>
+                <li>Pontos Turísticos</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Bem-Vindo à EuroTour</h1>
+        <section>
+            <h2>Sobre Nós</h2>
+            <p>EuroTour é um site que ajuda você a planejar sua viagem para a Europa, desde a compra das passagens até as visitas dos pontos turísticos mais importantes de cada região.</p>
+        </section>
+        <section>
+            <h2>Japão</h2>
+            <img src="https://www.bunkyo.org.br/wp-content/uploads/2023/06/Templo-Sensoji-freepik.jpg" alt="Japão">
+            <p>O Japão é um país incrível, conhecido por sua rica cultura, tecnologia avançada e paisagens deslumbrantes. Explore templos antigos, experimente a deliciosa culinária japonesa e mergulhe na mistura única de tradição e modernidade.</p>
+        </section>
+        <section>
+            <h2>Tailândia</h2>
+            <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2019/07/passagens-aereas-tailandia-capa2019-05-820x430.jpg" alt="Tailândia">
+            <p>A Tailândia é um destino exótico com praias paradisíacas, templos magníficos e uma cultura vibrante. Desfrute da hospitalidade tailandesa, participe de festivais coloridos e explore as ilhas deslumbrantes que tornam este país tão especial.</p>
+        </section>
+        <section>
+            <h2>Canadá</h2>
+            <img src="https://viagemeturismo.abril.com.br/wp-content/uploads/2016/10/vancouver.jpeg?quality=90&strip=info&w=925&w=636" alt="Canadá">
+            <p>O Canadá é um país vasto e diversificado, conhecido por suas paisagens espetaculares, desde as Montanhas Rochosas até as cidades cosmopolitas. Descubra a natureza selvagem, experimente a cultura multicultural e desfrute da qualidade de vida que o Canadá oferece.</p>
+        </section>
+    </main>
+
+    <footer>
+        <span>EuroTour(c)</span>
+        <ul>
+            <li>Facebook</li>
+            <li>Instagram</li>
+            <li>LinkedIn</li>
+        </ul>
+    </footer>
+</body>
+</html>
